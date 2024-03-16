@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features | Academic</title>
+    <link>http://localhost:1313/category/features/</link>
+      <atom:link href="http://localhost:1313/category/features/index.xml" rel="self" type="application/rss+xml" />
+    <description>Features</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Features</title>
+      <link>http://localhost:1313/category/features/</link>
+    </image>
+    
+    <item>
+      <title>Что такое CI/CD.</title>
+      <link>http://localhost:1313/post/ci-cd/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ci-cd/</guid>
+      <description>&lt;h2 id=&#34;определение-cicd&#34;&gt;Определение CI/CD&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция — это методология разработки и набор практик, при которых в код вносятся небольшие изменения с частыми коммитами. И поскольку большинство современных приложений разрабатываются с использованием различных платформ и инструментов, то появляется необходимость в механизме интеграции и тестировании вносимых изменений.&lt;/p&gt;
+&lt;p&gt;Непрерывная поставка — это автоматическое развертывание приложения в целевое окружение. Обычно разработчики работают с одним или несколькими окружениями разработки и тестирования, в которых приложение развертывается для тестирования и ревью. Для этого используются такие CI/CD-инструменты как Jenkins, CircleCI, AWS CodeBuild, Azure DevOps, Atlassian Bamboo, Travis CI.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Итак, подведем итоги. CI упаковывает, тестирует сборки и оповещает разработчиков, если что-то пошло не так. CD автоматически разворачивает приложения и выполняет дополнительные тесты.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
